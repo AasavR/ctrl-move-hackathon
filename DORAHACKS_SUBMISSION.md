@@ -12,7 +12,7 @@ LasavoPay is a Telegram-first payments platform that enables instant, low-cost U
 - Telegram bot for one-tap payments
 - Nodit webhook-based real-time transaction confirmation
 
-**Repo:** https://github.com/lasavo/lasavopay (placeholder)
+**Repo:** [https://github.com/lasavo/lasavopay (placeholder)](https://github.com/AasavR/ctrl-move-hackathon/)
 
 **Team:** Lasavo Labs — Aasav Ravi + 2 contributors
 
